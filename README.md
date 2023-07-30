@@ -22,6 +22,8 @@ The results of these commands will be displayed in the console.
 This script is a RAT (Remote Access Tool) written in Python 3. It is not designed for malicious purposes and does not hide the client.py file.
 It was created for my own learning :) it may be updated in the future.
 
+Ho and this script was written in 4 hours ^^' Soooooo it's not the most perfect & optimized
+
 
 ## License
 
